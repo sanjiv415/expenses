@@ -1,0 +1,17 @@
+body{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20rem;
+    background-color: rgb(61, 55, 55);
+}
+.time{
+    padding: 100px 200px;
+    /* border: 1px solid black; */
+/* background-color: blueviolet; */
+;
+border-radius: 10px;
+font-size: 80px;
+
+}
